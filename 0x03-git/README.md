@@ -1,2 +1,3 @@
-git things
-man 
+git thingz 
+MAN
+ 
